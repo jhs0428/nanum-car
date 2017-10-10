@@ -1,0 +1,2787 @@
+[
+  {
+    "type": "subway",
+    "name": "명동",
+    "station": "SES0424"
+  },
+  {
+    "type": "subway",
+    "name": "삼송",
+    "station": "SES1950"
+  },
+  {
+    "type": "subway",
+    "name": "파주",
+    "station": "SES1283"
+  },
+  {
+    "type": "subway",
+    "name": "중곡",
+    "station": "SES2726"
+  },
+  {
+    "type": "subway",
+    "name": "철산",
+    "station": "SES2749"
+  },
+  {
+    "type": "subway",
+    "name": "국회의사당",
+    "station": "SES4114"
+  },
+  {
+    "type": "subway",
+    "name": "강동구청",
+    "station": "SES2813"
+  },
+  {
+    "type": "subway",
+    "name": "독바위",
+    "station": "SES2614"
+  },
+  {
+    "type": "subway",
+    "name": "부평구청",
+    "station": "SES3118"
+  },
+  {
+    "type": "subway",
+    "name": "방학",
+    "station": "SES1901"
+  },
+  {
+    "type": "subway",
+    "name": "원당",
+    "station": "SES1951"
+  },
+  {
+    "type": "subway",
+    "name": "아차산",
+    "station": "SES2546"
+  },
+  {
+    "type": "subway",
+    "name": "금정",
+    "station": "SES1458"
+  },
+  {
+    "type": "subway",
+    "name": "금릉",
+    "station": "SES1279"
+  },
+  {
+    "type": "subway",
+    "name": "반포",
+    "station": "SES2735"
+  },
+  {
+    "type": "subway",
+    "name": "의정부",
+    "station": "SES1906"
+  },
+  {
+    "type": "subway",
+    "name": "석촌",
+    "station": "SES2816"
+  },
+  {
+    "type": "subway",
+    "name": "길음",
+    "station": "SES0417"
+  },
+  {
+    "type": "subway",
+    "name": "배방",
+    "station": "SES1405"
+  },
+  {
+    "type": "subway",
+    "name": "병점",
+    "station": "SES1716"
+  },
+  {
+    "type": "subway",
+    "name": "신정",
+    "station": "SES2520"
+  },
+  {
+    "type": "subway",
+    "name": "용마산",
+    "station": "SES2725"
+  },
+  {
+    "type": "subway",
+    "name": "계산",
+    "station": "SES3114"
+  },
+  {
+    "type": "subway",
+    "name": "탄방",
+    "station": "DJS110"
+  },
+  {
+    "type": "subway",
+    "name": "이매",
+    "station": "SES1860"
+  },
+  {
+    "type": "subway",
+    "name": "응봉",
+    "station": "SES1012"
+  },
+  {
+    "type": "subway",
+    "name": "봉화산",
+    "station": "SES2648"
+  },
+  {
+    "type": "subway",
+    "name": "홍제",
+    "station": "SES0314"
+  },
+  {
+    "type": "subway",
+    "name": "신촌",
+    "station": "SES1252"
+  },
+  {
+    "type": "subway",
+    "name": "동두천",
+    "station": "SES1915"
+  },
+  {
+    "type": "subway",
+    "name": "지족역",
+    "station": "DJS121"
+  },
+  {
+    "type": "subway",
+    "name": "광나루",
+    "station": "SES2547"
+  },
+  {
+    "type": "subway",
+    "name": "왕십리",
+    "station": "SES0208"
+  },
+  {
+    "type": "subway",
+    "name": "강동",
+    "station": "SES2549"
+  },
+  {
+    "type": "subway",
+    "name": "대곡",
+    "station": "SES1953"
+  },
+  {
+    "type": "subway",
+    "name": "마곡",
+    "station": "SES2515"
+  },
+  {
+    "type": "subway",
+    "name": "개롱",
+    "station": "SES2559"
+  },
+  {
+    "type": "subway",
+    "name": "녹번",
+    "station": "SES0313"
+  },
+  {
+    "type": "subway",
+    "name": "광흥창",
+    "station": "SES2625"
+  },
+  {
+    "type": "subway",
+    "name": "제물포",
+    "station": "SES1810"
+  },
+  {
+    "type": "subway",
+    "name": "수리산",
+    "station": "SES1763"
+  },
+  {
+    "type": "subway",
+    "name": "서현",
+    "station": "SES1855"
+  },
+  {
+    "type": "subway",
+    "name": "대야미",
+    "station": "SES1752"
+  },
+  {
+    "type": "subway",
+    "name": "보라매",
+    "station": "SES2744"
+  },
+  {
+    "type": "subway",
+    "name": "총신대입구",
+    "station": "SES0432"
+  },
+  {
+    "type": "subway",
+    "name": "원덕",
+    "station": "SES1218"
+  },
+  {
+    "type": "subway",
+    "name": "돌곶이",
+    "station": "SES2644"
+  },
+  {
+    "type": "subway",
+    "name": "일산",
+    "station": "SES1275"
+  },
+  {
+    "type": "subway",
+    "name": "서빙고",
+    "station": "SES1009"
+  },
+  {
+    "type": "subway",
+    "name": "개봉",
+    "station": "SES1801"
+  },
+  {
+    "type": "subway",
+    "name": "이촌",
+    "station": "SES1008"
+  },
+  {
+    "type": "subway",
+    "name": "용문",
+    "station": "SES1219"
+  },
+  {
+    "type": "subway",
+    "name": "동대문운동장",
+    "station": "SES0205"
+  },
+  {
+    "type": "subway",
+    "name": "가산디지털단지",
+    "station": "SES1702"
+  },
+  {
+    "type": "subway",
+    "name": "구룡",
+    "station": "SES1026"
+  },
+  {
+    "type": "subway",
+    "name": "당고개",
+    "station": "SES0409"
+  },
+  {
+    "type": "subway",
+    "name": "이촌",
+    "station": "SES0430"
+  },
+  {
+    "type": "subway",
+    "name": "수원",
+    "station": "SES1713"
+  },
+  {
+    "type": "subway",
+    "name": "인덕원",
+    "station": "SES1455"
+  },
+  {
+    "type": "subway",
+    "name": "양천구청",
+    "station": "SES0248"
+  },
+  {
+    "type": "subway",
+    "name": "종로3가",
+    "station": "SES0319"
+  },
+  {
+    "type": "subway",
+    "name": "도곡",
+    "station": "SES1025"
+  },
+  {
+    "type": "subway",
+    "name": "일원",
+    "station": "SES0338"
+  },
+  {
+    "type": "subway",
+    "name": "도림천",
+    "station": "SES0247"
+  },
+  {
+    "type": "subway",
+    "name": "쌍문",
+    "station": "SES0413"
+  },
+  {
+    "type": "subway",
+    "name": "봉명",
+    "station": "SES1401"
+  },
+  {
+    "type": "subway",
+    "name": "서울",
+    "station": "SES1251"
+  },
+  {
+    "type": "subway",
+    "name": "동대입구",
+    "station": "SES0322"
+  },
+  {
+    "type": "subway",
+    "name": "임학",
+    "station": "SES3113"
+  },
+  {
+    "type": "subway",
+    "name": "성수",
+    "station": "SES0211"
+  },
+  {
+    "type": "subway",
+    "name": "망우",
+    "station": "SES1203"
+  },
+  {
+    "type": "subway",
+    "name": "계양",
+    "station": "SESA060"
+  },
+  {
+    "type": "subway",
+    "name": "평촌",
+    "station": "SES1456"
+  },
+  {
+    "type": "subway",
+    "name": "부개",
+    "station": "SES1815"
+  },
+  {
+    "type": "subway",
+    "name": "인천",
+    "station": "SES1812"
+  },
+  {
+    "type": "subway",
+    "name": "태릉입구",
+    "station": "SES2646"
+  },
+  {
+    "type": "subway",
+    "name": "신용산",
+    "station": "SES0429"
+  },
+  {
+    "type": "subway",
+    "name": "광화문",
+    "station": "SES2534"
+  },
+  {
+    "type": "subway",
+    "name": "농성",
+    "station": "KJS330150"
+  },
+  {
+    "type": "subway",
+    "name": "서동탄",
+    "station": "SES1749"
+  },
+  {
+    "type": "subway",
+    "name": "신설동",
+    "station": "SES0246"
+  },
+  {
+    "type": "subway",
+    "name": "곡산",
+    "station": "SES1272"
+  },
+  {
+    "type": "subway",
+    "name": "성환",
+    "station": "SES1725"
+  },
+  {
+    "type": "subway",
+    "name": "수락산",
+    "station": "SES2713"
+  },
+  {
+    "type": "subway",
+    "name": "강남",
+    "station": "SES0222"
+  },
+  {
+    "type": "subway",
+    "name": "팔당",
+    "station": "SES1210"
+  },
+  {
+    "type": "subway",
+    "name": "대치",
+    "station": "SES0335"
+  },
+  {
+    "type": "subway",
+    "name": "청담",
+    "station": "SES2731"
+  },
+  {
+    "type": "subway",
+    "name": "시청",
+    "station": "DJS111"
+  },
+  {
+    "type": "subway",
+    "name": "반월",
+    "station": "SES1753"
+  },
+  {
+    "type": "subway",
+    "name": "신풍",
+    "station": "SES2745"
+  },
+  {
+    "type": "subway",
+    "name": "신연수",
+    "station": "SES3129"
+  },
+  {
+    "type": "subway",
+    "name": "방화",
+    "station": "SES2511"
+  },
+  {
+    "type": "subway",
+    "name": "도화",
+    "station": "SES1823"
+  },
+  {
+    "type": "subway",
+    "name": "잠실",
+    "station": "SES2815"
+  },
+  {
+    "type": "subway",
+    "name": "송탄",
+    "station": "SES1721"
+  },
+  {
+    "type": "subway",
+    "name": "하계",
+    "station": "SES2717"
+  },
+  {
+    "type": "subway",
+    "name": "의왕",
+    "station": "SES1710"
+  },
+  {
+    "type": "subway",
+    "name": "녹동",
+    "station": "KJS310050"
+  },
+  {
+    "type": "subway",
+    "name": "대림",
+    "station": "SES0233"
+  },
+  {
+    "type": "subway",
+    "name": "평택",
+    "station": "SES1724"
+  },
+  {
+    "type": "subway",
+    "name": "도봉산",
+    "station": "SES2712"
+  },
+  {
+    "type": "subway",
+    "name": "상봉",
+    "station": "SES2722"
+  },
+  {
+    "type": "subway",
+    "name": "동암",
+    "station": "SES1808"
+  },
+  {
+    "type": "subway",
+    "name": "신사",
+    "station": "SES0327"
+  },
+  {
+    "type": "subway",
+    "name": "문정",
+    "station": "SES2819"
+  },
+  {
+    "type": "subway",
+    "name": "서울역",
+    "station": "SES0150"
+  },
+  {
+    "type": "subway",
+    "name": "인천터미널",
+    "station": "SES3126"
+  },
+  {
+    "type": "subway",
+    "name": "마천",
+    "station": "SES2561"
+  },
+  {
+    "type": "subway",
+    "name": "천왕",
+    "station": "SES2751"
+  },
+  {
+    "type": "subway",
+    "name": "왕십리",
+    "station": "SES2541"
+  },
+  {
+    "type": "subway",
+    "name": "남태령",
+    "station": "SES0434"
+  },
+  {
+    "type": "subway",
+    "name": "신흥",
+    "station": "SES2825"
+  },
+  {
+    "type": "subway",
+    "name": "기지사업소",
+    "station": "KJS210000"
+  },
+  {
+    "type": "subway",
+    "name": "소태",
+    "station": "KJS310100"
+  },
+  {
+    "type": "subway",
+    "name": "부천",
+    "station": "SES1804"
+  },
+  {
+    "type": "subway",
+    "name": "공릉",
+    "station": "SES2718"
+  },
+  {
+    "type": "subway",
+    "name": "관악",
+    "station": "SES1705"
+  },
+  {
+    "type": "subway",
+    "name": "서울역",
+    "station": "SES0426"
+  },
+  {
+    "type": "subway",
+    "name": "명일",
+    "station": "SES2552"
+  },
+  {
+    "type": "subway",
+    "name": "신천",
+    "station": "SES0217"
+  },
+  {
+    "type": "subway",
+    "name": "구리",
+    "station": "SES1205"
+  },
+  {
+    "type": "subway",
+    "name": "현충원역",
+    "station": "DJS118"
+  },
+  {
+    "type": "subway",
+    "name": "건대입구",
+    "station": "SES2729"
+  },
+  {
+    "type": "subway",
+    "name": "구의",
+    "station": "SES0213"
+  },
+  {
+    "type": "subway",
+    "name": "중랑",
+    "station": "SES1201"
+  },
+  {
+    "type": "subway",
+    "name": "삼각지",
+    "station": "SES0428"
+  },
+  {
+    "type": "subway",
+    "name": "가좌",
+    "station": "SES1265"
+  },
+  {
+    "type": "subway",
+    "name": "한양대",
+    "station": "SES0209"
+  },
+  {
+    "type": "subway",
+    "name": "부평시장",
+    "station": "SES3119"
+  },
+  {
+    "type": "subway",
+    "name": "경마공원",
+    "station": "SES1451"
+  },
+  {
+    "type": "subway",
+    "name": "온수",
+    "station": "SES1821"
+  },
+  {
+    "type": "subway",
+    "name": "송파",
+    "station": "SES2817"
+  },
+  {
+    "type": "subway",
+    "name": "디지털미디어시티",
+    "station": "SES2619"
+  },
+  {
+    "type": "subway",
+    "name": "충무로",
+    "station": "SES0321"
+  },
+  {
+    "type": "subway",
+    "name": "약수",
+    "station": "SES0323"
+  },
+  {
+    "type": "subway",
+    "name": "과천",
+    "station": "SES1453"
+  },
+  {
+    "type": "subway",
+    "name": "신흥역",
+    "station": "DJS102"
+  },
+  {
+    "type": "subway",
+    "name": "군자",
+    "station": "SES2545"
+  },
+  {
+    "type": "subway",
+    "name": "답십리",
+    "station": "SES2543"
+  },
+  {
+    "type": "subway",
+    "name": "양재",
+    "station": "SES0332"
+  },
+  {
+    "type": "subway",
+    "name": "월롱",
+    "station": "SES1282"
+  },
+  {
+    "type": "subway",
+    "name": "한강진",
+    "station": "SES2632"
+  },
+  {
+    "type": "subway",
+    "name": "애오개",
+    "station": "SES2531"
+  },
+  {
+    "type": "subway",
+    "name": "학동",
+    "station": "SES2733"
+  },
+  {
+    "type": "subway",
+    "name": "정부청사",
+    "station": "DJS112"
+  },
+  {
+    "type": "subway",
+    "name": "오산",
+    "station": "SES1719"
+  },
+  {
+    "type": "subway",
+    "name": "이대",
+    "station": "SES0241"
+  },
+  {
+    "type": "subway",
+    "name": "가양",
+    "station": "SES4107"
+  },
+  {
+    "type": "subway",
+    "name": "약수",
+    "station": "SES2634"
+  },
+  {
+    "type": "subway",
+    "name": "백마",
+    "station": "SES1273"
+  },
+  {
+    "type": "subway",
+    "name": "공항화물청사",
+    "station": "SESA090"
+  },
+  {
+    "type": "subway",
+    "name": "도원",
+    "station": "SES1817"
+  },
+  {
+    "type": "subway",
+    "name": "국제업무지구",
+    "station": "SES3138"
+  },
+  {
+    "type": "subway",
+    "name": "양평",
+    "station": "SES2523"
+  },
+  {
+    "type": "subway",
+    "name": "구산",
+    "station": "SES2616"
+  },
+  {
+    "type": "subway",
+    "name": "복정",
+    "station": "SES1031"
+  },
+  {
+    "type": "subway",
+    "name": "모란",
+    "station": "SES1853"
+  },
+  {
+    "type": "subway",
+    "name": "종각",
+    "station": "SES0152"
+  },
+  {
+    "type": "subway",
+    "name": "인천시청",
+    "station": "SES3124"
+  },
+  {
+    "type": "subway",
+    "name": "안암",
+    "station": "SES2640"
+  },
+  {
+    "type": "subway",
+    "name": "방배",
+    "station": "SES0225"
+  },
+  {
+    "type": "subway",
+    "name": "양평",
+    "station": "SES1217"
+  },
+  {
+    "type": "subway",
+    "name": "길동",
+    "station": "SES2550"
+  },
+  {
+    "type": "subway",
+    "name": "중화",
+    "station": "SES2721"
+  },
+  {
+    "type": "subway",
+    "name": "안산",
+    "station": "SES1759"
+  },
+  {
+    "type": "subway",
+    "name": "강변",
+    "station": "SES0214"
+  },
+  {
+    "type": "subway",
+    "name": "도농",
+    "station": "SES1206"
+  },
+  {
+    "type": "subway",
+    "name": "수서",
+    "station": "SES1030"
+  },
+  {
+    "type": "subway",
+    "name": "노원",
+    "station": "SES0411"
+  },
+  {
+    "type": "subway",
+    "name": "아산",
+    "station": "SES1403"
+  },
+  {
+    "type": "subway",
+    "name": "캠퍼스타운",
+    "station": "SES3133"
+  },
+  {
+    "type": "subway",
+    "name": "면목",
+    "station": "SES2723"
+  },
+  {
+    "type": "subway",
+    "name": "개화산",
+    "station": "SES2512"
+  },
+  {
+    "type": "subway",
+    "name": "등촌",
+    "station": "SES4109"
+  },
+  {
+    "type": "subway",
+    "name": "삼성",
+    "station": "SES0219"
+  },
+  {
+    "type": "subway",
+    "name": "독산",
+    "station": "SES1714"
+  },
+  {
+    "type": "subway",
+    "name": "대모산입구",
+    "station": "SES1028"
+  },
+  {
+    "type": "subway",
+    "name": "충정로",
+    "station": "SES2532"
+  },
+  {
+    "type": "subway",
+    "name": "백석",
+    "station": "SES1954"
+  },
+  {
+    "type": "subway",
+    "name": "성북",
+    "station": "SES1019"
+  },
+  {
+    "type": "subway",
+    "name": "화전",
+    "station": "SES1268"
+  },
+  {
+    "type": "subway",
+    "name": "영등포시장",
+    "station": "SES2525"
+  },
+  {
+    "type": "subway",
+    "name": "충무로",
+    "station": "SES0423"
+  },
+  {
+    "type": "subway",
+    "name": "정부과천청사",
+    "station": "SES1454"
+  },
+  {
+    "type": "subway",
+    "name": "구반포",
+    "station": "SES4121"
+  },
+  {
+    "type": "subway",
+    "name": "방이",
+    "station": "SES2557"
+  },
+  {
+    "type": "subway",
+    "name": "소사",
+    "station": "SES1814"
+  },
+  {
+    "type": "subway",
+    "name": "역삼",
+    "station": "SES0221"
+  },
+  {
+    "type": "subway",
+    "name": "신원",
+    "station": "SES1213"
+  },
+  {
+    "type": "subway",
+    "name": "공덕",
+    "station": "SES2627"
+  },
+  {
+    "type": "subway",
+    "name": "신설동",
+    "station": "SES0156"
+  },
+  {
+    "type": "subway",
+    "name": "부평",
+    "station": "SES3120"
+  },
+  {
+    "type": "subway",
+    "name": "신정네거리",
+    "station": "SES0249"
+  },
+  {
+    "type": "subway",
+    "name": "태릉입구",
+    "station": "SES2719"
+  },
+  {
+    "type": "subway",
+    "name": "용산",
+    "station": "SES100C"
+  },
+  {
+    "type": "subway",
+    "name": "고잔",
+    "station": "SES1757"
+  },
+  {
+    "type": "subway",
+    "name": "상도",
+    "station": "SES2741"
+  },
+  {
+    "type": "subway",
+    "name": "경복궁",
+    "station": "SES0317"
+  },
+  {
+    "type": "subway",
+    "name": "상수",
+    "station": "SES2624"
+  },
+  {
+    "type": "subway",
+    "name": "공항시장",
+    "station": "SES4103"
+  },
+  {
+    "type": "subway",
+    "name": "세류",
+    "station": "SES1715"
+  },
+  {
+    "type": "subway",
+    "name": "덕정",
+    "station": "SES1911"
+  },
+  {
+    "type": "subway",
+    "name": "사당",
+    "station": "SES0433"
+  },
+  {
+    "type": "subway",
+    "name": "을지로4가",
+    "station": "SES2536"
+  },
+  {
+    "type": "subway",
+    "name": "안양",
+    "station": "SES1706"
+  },
+  {
+    "type": "subway",
+    "name": "산성",
+    "station": "SES2822"
+  },
+  {
+    "type": "subway",
+    "name": "용문",
+    "station": "DJS109"
+  },
+  {
+    "type": "subway",
+    "name": "갈산",
+    "station": "SES3117"
+  },
+  {
+    "type": "subway",
+    "name": "오금",
+    "station": "SES2558"
+  },
+  {
+    "type": "subway",
+    "name": "지축",
+    "station": "SES0309"
+  },
+  {
+    "type": "subway",
+    "name": "종로5가",
+    "station": "SES0154"
+  },
+  {
+    "type": "subway",
+    "name": "부평삼거리",
+    "station": "SES3122"
+  },
+  {
+    "type": "subway",
+    "name": "디지털미디어시티",
+    "station": "SES1266"
+  },
+  {
+    "type": "subway",
+    "name": "을지로4가",
+    "station": "SES0204"
+  },
+  {
+    "type": "subway",
+    "name": "송내",
+    "station": "SES1805"
+  },
+  {
+    "type": "subway",
+    "name": "갈마역",
+    "station": "DJS113"
+  },
+  {
+    "type": "subway",
+    "name": "둔촌동",
+    "station": "SES2555"
+  },
+  {
+    "type": "subway",
+    "name": "구로디지털단지",
+    "station": "SES0232"
+  },
+  {
+    "type": "subway",
+    "name": "고속터미널",
+    "station": "SES0329"
+  },
+  {
+    "type": "subway",
+    "name": "압구정",
+    "station": "SES0326"
+  },
+  {
+    "type": "subway",
+    "name": "을지로3가",
+    "station": "SES0320"
+  },
+  {
+    "type": "subway",
+    "name": "증미",
+    "station": "SES4108"
+  },
+  {
+    "type": "subway",
+    "name": "외대앞",
+    "station": "SES1016"
+  },
+  {
+    "type": "subway",
+    "name": "회기",
+    "station": "SES1015"
+  },
+  {
+    "type": "subway",
+    "name": "여의도",
+    "station": "SES2527"
+  },
+  {
+    "type": "subway",
+    "name": "낙성대",
+    "station": "SES0227"
+  },
+  {
+    "type": "subway",
+    "name": "아신",
+    "station": "SES1215"
+  },
+  {
+    "type": "subway",
+    "name": "대공원",
+    "station": "SES1452"
+  },
+  {
+    "type": "subway",
+    "name": "남영",
+    "station": "SES1002"
+  },
+  {
+    "type": "subway",
+    "name": "덕계",
+    "station": "SES1910"
+  },
+  {
+    "type": "subway",
+    "name": "세마",
+    "station": "SES1717"
+  },
+  {
+    "type": "subway",
+    "name": "당정",
+    "station": "SES1729"
+  },
+  {
+    "type": "subway",
+    "name": "천호",
+    "station": "SES2548"
+  },
+  {
+    "type": "subway",
+    "name": "도심",
+    "station": "SES1209"
+  },
+  {
+    "type": "subway",
+    "name": "덕소",
+    "station": "SES1208"
+  },
+  {
+    "type": "subway",
+    "name": "고덕",
+    "station": "SES2553"
+  },
+  {
+    "type": "subway",
+    "name": "흑석",
+    "station": "SES4119"
+  },
+  {
+    "type": "subway",
+    "name": "효창공원앞",
+    "station": "SES2628"
+  },
+  {
+    "type": "subway",
+    "name": "당산",
+    "station": "SES4113"
+  },
+  {
+    "type": "subway",
+    "name": "대방",
+    "station": "SES1005"
+  },
+  {
+    "type": "subway",
+    "name": "노은역",
+    "station": "DJS120"
+  },
+  {
+    "type": "subway",
+    "name": "미금",
+    "station": "SES1858"
+  },
+  {
+    "type": "subway",
+    "name": "새절",
+    "station": "SES2617"
+  },
+  {
+    "type": "subway",
+    "name": "오이도",
+    "station": "SES1762"
+  },
+  {
+    "type": "subway",
+    "name": "양천향교",
+    "station": "SES4106"
+  },
+  {
+    "type": "subway",
+    "name": "쌍촌",
+    "station": "KJS330250"
+  },
+  {
+    "type": "subway",
+    "name": "영등포구청",
+    "station": "SES0236"
+  },
+  {
+    "type": "subway",
+    "name": "귤현",
+    "station": "SES3111"
+  },
+  {
+    "type": "subway",
+    "name": "구일",
+    "station": "SES1813"
+  },
+  {
+    "type": "subway",
+    "name": "어린이대공원",
+    "station": "SES2728"
+  },
+  {
+    "type": "subway",
+    "name": "학동증심사",
+    "station": "KJS310150"
+  },
+  {
+    "type": "subway",
+    "name": "왕십리",
+    "station": "SES1013"
+  },
+  {
+    "type": "subway",
+    "name": "중동",
+    "station": "SES1822"
+  },
+  {
+    "type": "subway",
+    "name": "몽촌토성",
+    "station": "SES2814"
+  },
+  {
+    "type": "subway",
+    "name": "서정리",
+    "station": "SES1722"
+  },
+  {
+    "type": "subway",
+    "name": "마들",
+    "station": "SES2714"
+  },
+  {
+    "type": "subway",
+    "name": "보정",
+    "station": "SES1861"
+  },
+  {
+    "type": "subway",
+    "name": "운정",
+    "station": "SES1278"
+  },
+  {
+    "type": "subway",
+    "name": "연신내",
+    "station": "SES0311"
+  },
+  {
+    "type": "subway",
+    "name": "신촌",
+    "station": "SES0240"
+  },
+  {
+    "type": "subway",
+    "name": "발산",
+    "station": "SES2516"
+  },
+  {
+    "type": "subway",
+    "name": "내방",
+    "station": "SES2737"
+  },
+  {
+    "type": "subway",
+    "name": "녹천",
+    "station": "SES1021"
+  },
+  {
+    "type": "subway",
+    "name": "고속터미널",
+    "station": "SES4123"
+  },
+  {
+    "type": "subway",
+    "name": "주엽",
+    "station": "SES1957"
+  },
+  {
+    "type": "subway",
+    "name": "경찰병원",
+    "station": "SES0341"
+  },
+  {
+    "type": "subway",
+    "name": "학여울",
+    "station": "SES0336"
+  },
+  {
+    "type": "subway",
+    "name": "수서",
+    "station": "SES0339"
+  },
+  {
+    "type": "subway",
+    "name": "뚝섬",
+    "station": "SES0210"
+  },
+  {
+    "type": "subway",
+    "name": "유성온천역",
+    "station": "DJS116"
+  },
+  {
+    "type": "subway",
+    "name": "동작",
+    "station": "SES4120"
+  },
+  {
+    "type": "subway",
+    "name": "인천국제공항",
+    "station": "SESA100"
+  },
+  {
+    "type": "subway",
+    "name": "시청",
+    "station": "SES0201"
+  },
+  {
+    "type": "subway",
+    "name": "대전역",
+    "station": "DJS104"
+  },
+  {
+    "type": "subway",
+    "name": "금남5가",
+    "station": "KJS310350"
+  },
+  {
+    "type": "subway",
+    "name": "충정로",
+    "station": "SES0243"
+  },
+  {
+    "type": "subway",
+    "name": "신논현",
+    "station": "SES4125"
+  },
+  {
+    "type": "subway",
+    "name": "양주",
+    "station": "SES1909"
+  },
+  {
+    "type": "subway",
+    "name": "뚝섬유원지",
+    "station": "SES2730"
+  },
+  {
+    "type": "subway",
+    "name": "월계",
+    "station": "SES1020"
+  },
+  {
+    "type": "subway",
+    "name": "개포동",
+    "station": "SES1027"
+  },
+  {
+    "type": "subway",
+    "name": "신당",
+    "station": "SES2636"
+  },
+  {
+    "type": "subway",
+    "name": "운천",
+    "station": "KJS330300"
+  },
+  {
+    "type": "subway",
+    "name": "암사",
+    "station": "SES2811"
+  },
+  {
+    "type": "subway",
+    "name": "석수",
+    "station": "SES1704"
+  },
+  {
+    "type": "subway",
+    "name": "삼각지",
+    "station": "SES2629"
+  },
+  {
+    "type": "subway",
+    "name": "오목교",
+    "station": "SES2522"
+  },
+  {
+    "type": "subway",
+    "name": "마장",
+    "station": "SES2542"
+  },
+  {
+    "type": "subway",
+    "name": "송정공원",
+    "station": "KJS350150"
+  },
+  {
+    "type": "subway",
+    "name": "창동",
+    "station": "SES1022"
+  },
+  {
+    "type": "subway",
+    "name": "월곡",
+    "station": "SES2642"
+  },
+  {
+    "type": "subway",
+    "name": "동막",
+    "station": "SES3132"
+  },
+  {
+    "type": "subway",
+    "name": "신길온천",
+    "station": "SES1760"
+  },
+  {
+    "type": "subway",
+    "name": "수진",
+    "station": "SES2826"
+  },
+  {
+    "type": "subway",
+    "name": "시청",
+    "station": "SES0151"
+  },
+  {
+    "type": "subway",
+    "name": "문학경기장",
+    "station": "SES3127"
+  },
+  {
+    "type": "subway",
+    "name": "창동",
+    "station": "SES0412"
+  },
+  {
+    "type": "subway",
+    "name": "사당",
+    "station": "SES0226"
+  },
+  {
+    "type": "subway",
+    "name": "국수",
+    "station": "SES1214"
+  },
+  {
+    "type": "subway",
+    "name": "마두",
+    "station": "SES1955"
+  },
+  {
+    "type": "subway",
+    "name": "범계",
+    "station": "SES1457"
+  },
+  {
+    "type": "subway",
+    "name": "올림픽공원",
+    "station": "SES2556"
+  },
+  {
+    "type": "subway",
+    "name": "판암역",
+    "station": "DJS101"
+  },
+  {
+    "type": "subway",
+    "name": "석계",
+    "station": "SES1018"
+  },
+  {
+    "type": "subway",
+    "name": "사가정",
+    "station": "SES2724"
+  },
+  {
+    "type": "subway",
+    "name": "서대전네거리",
+    "station": "DJS107"
+  },
+  {
+    "type": "subway",
+    "name": "한남",
+    "station": "SES1010"
+  },
+  {
+    "type": "subway",
+    "name": "용산",
+    "station": "SES1003"
+  },
+  {
+    "type": "subway",
+    "name": "갑천역",
+    "station": "DJS115"
+  },
+  {
+    "type": "subway",
+    "name": "사평",
+    "station": "SES4124"
+  },
+  {
+    "type": "subway",
+    "name": "신대방",
+    "station": "SES0231"
+  },
+  {
+    "type": "subway",
+    "name": "소요산",
+    "station": "SES1916"
+  },
+  {
+    "type": "subway",
+    "name": "동묘앞",
+    "station": "SES2637"
+  },
+  {
+    "type": "subway",
+    "name": "화정",
+    "station": "SES1952"
+  },
+  {
+    "type": "subway",
+    "name": "죽전",
+    "station": "SES1862"
+  },
+  {
+    "type": "subway",
+    "name": "공단",
+    "station": "SES1758"
+  },
+  {
+    "type": "subway",
+    "name": "신길",
+    "station": "SES1032"
+  },
+  {
+    "type": "subway",
+    "name": "동대문",
+    "station": "SES0155"
+  },
+  {
+    "type": "subway",
+    "name": "간석오거리",
+    "station": "SES3123"
+  },
+  {
+    "type": "subway",
+    "name": "가능",
+    "station": "SES1907"
+  },
+  {
+    "type": "subway",
+    "name": "옥수",
+    "station": "SES1011"
+  },
+  {
+    "type": "subway",
+    "name": "오룡",
+    "station": "DJS108"
+  },
+  {
+    "type": "subway",
+    "name": "광명",
+    "station": "SES1750"
+  },
+  {
+    "type": "subway",
+    "name": "대림",
+    "station": "SES2746"
+  },
+  {
+    "type": "subway",
+    "name": "상계",
+    "station": "SES0410"
+  },
+  {
+    "type": "subway",
+    "name": "쌍용(나사렛대)",
+    "station": "SES1402"
+  },
+  {
+    "type": "subway",
+    "name": "신도림",
+    "station": "SES0234"
+  },
+  {
+    "type": "subway",
+    "name": "김포공항",
+    "station": "SES2513"
+  },
+  {
+    "type": "subway",
+    "name": "노들",
+    "station": "SES4118"
+  },
+  {
+    "type": "subway",
+    "name": "천호",
+    "station": "SES2812"
+  },
+  {
+    "type": "subway",
+    "name": "부평",
+    "station": "SES1806"
+  },
+  {
+    "type": "subway",
+    "name": "동춘",
+    "station": "SES3131"
+  },
+  {
+    "type": "subway",
+    "name": "상왕십리",
+    "station": "SES0207"
+  },
+  {
+    "type": "subway",
+    "name": "망원",
+    "station": "SES2622"
+  },
+  {
+    "type": "subway",
+    "name": "회현",
+    "station": "SES0425"
+  },
+  {
+    "type": "subway",
+    "name": "연신내",
+    "station": "SES2615"
+  },
+  {
+    "type": "subway",
+    "name": "홍대입구",
+    "station": "SES0239"
+  },
+  {
+    "type": "subway",
+    "name": "오산대",
+    "station": "SES1718"
+  },
+  {
+    "type": "subway",
+    "name": "잠원",
+    "station": "SES0328"
+  },
+  {
+    "type": "subway",
+    "name": "신이문",
+    "station": "SES1017"
+  },
+  {
+    "type": "subway",
+    "name": "목동",
+    "station": "SES2521"
+  },
+  {
+    "type": "subway",
+    "name": "증산",
+    "station": "SES2618"
+  },
+  {
+    "type": "subway",
+    "name": "대동역",
+    "station": "DJS103"
+  },
+  {
+    "type": "subway",
+    "name": "신림",
+    "station": "SES0230"
+  },
+  {
+    "type": "subway",
+    "name": "강남구청",
+    "station": "SES2732"
+  },
+  {
+    "type": "subway",
+    "name": "직산",
+    "station": "SES1726"
+  },
+  {
+    "type": "subway",
+    "name": "월평역",
+    "station": "DJS114"
+  },
+  {
+    "type": "subway",
+    "name": "인천대입구",
+    "station": "SES3136"
+  },
+  {
+    "type": "subway",
+    "name": "아현",
+    "station": "SES0242"
+  },
+  {
+    "type": "subway",
+    "name": "가산디지털단지",
+    "station": "SES2748"
+  },
+  {
+    "type": "subway",
+    "name": "합정",
+    "station": "SES0238"
+  },
+  {
+    "type": "subway",
+    "name": "서대문",
+    "station": "SES2533"
+  },
+  {
+    "type": "subway",
+    "name": "상일동",
+    "station": "SES2554"
+  },
+  {
+    "type": "subway",
+    "name": "구파발",
+    "station": "SES0310"
+  },
+  {
+    "type": "subway",
+    "name": "노량진",
+    "station": "SES4117"
+  },
+  {
+    "type": "subway",
+    "name": "남성",
+    "station": "SES2739"
+  },
+  {
+    "type": "subway",
+    "name": "잠실",
+    "station": "SES0216"
+  },
+  {
+    "type": "subway",
+    "name": "양원",
+    "station": "SES1204"
+  },
+  {
+    "type": "subway",
+    "name": "화랑대",
+    "station": "SES2647"
+  },
+  {
+    "type": "subway",
+    "name": "성내",
+    "station": "SES0215"
+  },
+  {
+    "type": "subway",
+    "name": "양정",
+    "station": "SES1207"
+  },
+  {
+    "type": "subway",
+    "name": "망월사",
+    "station": "SES1904"
+  },
+  {
+    "type": "subway",
+    "name": "석계",
+    "station": "SES2645"
+  },
+  {
+    "type": "subway",
+    "name": "이수",
+    "station": "SES2738"
+  },
+  {
+    "type": "subway",
+    "name": "까치산",
+    "station": "SES0200"
+  },
+  {
+    "type": "subway",
+    "name": "노량진",
+    "station": "SES1004"
+  },
+  {
+    "type": "subway",
+    "name": "종로3가",
+    "station": "SES0153"
+  },
+  {
+    "type": "subway",
+    "name": "예술회관",
+    "station": "SES3125"
+  },
+  {
+    "type": "subway",
+    "name": "김포공항",
+    "station": "SESA050"
+  },
+  {
+    "type": "subway",
+    "name": "숙대입구",
+    "station": "SES0427"
+  },
+  {
+    "type": "subway",
+    "name": "굽은다리",
+    "station": "SES2551"
+  },
+  {
+    "type": "subway",
+    "name": "지식정보단지",
+    "station": "SES3135"
+  },
+  {
+    "type": "subway",
+    "name": "동대문",
+    "station": "SES0421"
+  },
+  {
+    "type": "subway",
+    "name": "행신",
+    "station": "SES1270"
+  },
+  {
+    "type": "subway",
+    "name": "불광",
+    "station": "SES2613"
+  },
+  {
+    "type": "subway",
+    "name": "을지로3가",
+    "station": "SES0203"
+  },
+  {
+    "type": "subway",
+    "name": "선릉",
+    "station": "SES1023"
+  },
+  {
+    "type": "subway",
+    "name": "논현",
+    "station": "SES2734"
+  },
+  {
+    "type": "subway",
+    "name": "신방화",
+    "station": "SES4104"
+  },
+  {
+    "type": "subway",
+    "name": "상무",
+    "station": "KJS330350"
+  },
+  {
+    "type": "subway",
+    "name": "광명사거리",
+    "station": "SES2750"
+  },
+  {
+    "type": "subway",
+    "name": "봉천",
+    "station": "SES0229"
+  },
+  {
+    "type": "subway",
+    "name": "공항",
+    "station": "KJS350100"
+  },
+  {
+    "type": "subway",
+    "name": "신창(순천향대)",
+    "station": "SES1408"
+  },
+  {
+    "type": "subway",
+    "name": "창신",
+    "station": "SES2638"
+  },
+  {
+    "type": "subway",
+    "name": "여의도",
+    "station": "SES4115"
+  },
+  {
+    "type": "subway",
+    "name": "서울대입구",
+    "station": "SES0228"
+  },
+  {
+    "type": "subway",
+    "name": "모란",
+    "station": "SES2827"
+  },
+  {
+    "type": "subway",
+    "name": "두정",
+    "station": "SES1727"
+  },
+  {
+    "type": "subway",
+    "name": "장암",
+    "station": "SES2711"
+  },
+  {
+    "type": "subway",
+    "name": "상월곡",
+    "station": "SES2643"
+  },
+  {
+    "type": "subway",
+    "name": "녹사평",
+    "station": "SES2630"
+  },
+  {
+    "type": "subway",
+    "name": "교대",
+    "station": "SES0330"
+  },
+  {
+    "type": "subway",
+    "name": "원인재",
+    "station": "SES3130"
+  },
+  {
+    "type": "subway",
+    "name": "용답",
+    "station": "SES0244"
+  },
+  {
+    "type": "subway",
+    "name": "도봉",
+    "station": "SES1902"
+  },
+  {
+    "type": "subway",
+    "name": "장지",
+    "station": "SES2820"
+  },
+  {
+    "type": "subway",
+    "name": "지행",
+    "station": "SES1912"
+  },
+  {
+    "type": "subway",
+    "name": "마포",
+    "station": "SES2529"
+  },
+  {
+    "type": "subway",
+    "name": "경원대",
+    "station": "SES1851"
+  },
+  {
+    "type": "subway",
+    "name": "한성대입구",
+    "station": "SES0419"
+  },
+  {
+    "type": "subway",
+    "name": "선릉",
+    "station": "SES0220"
+  },
+  {
+    "type": "subway",
+    "name": "양수",
+    "station": "SES1212"
+  },
+  {
+    "type": "subway",
+    "name": "신금호",
+    "station": "SES2539"
+  },
+  {
+    "type": "subway",
+    "name": "대흥",
+    "station": "SES2626"
+  },
+  {
+    "type": "subway",
+    "name": "마포구청",
+    "station": "SES2621"
+  },
+  {
+    "type": "subway",
+    "name": "동대문운동장",
+    "station": "SES0422"
+  },
+  {
+    "type": "subway",
+    "name": "컨벤션",
+    "station": "KJS350050"
+  },
+  {
+    "type": "subway",
+    "name": "서초",
+    "station": "SES0224"
+  },
+  {
+    "type": "subway",
+    "name": "탄현",
+    "station": "SES1276"
+  },
+  {
+    "type": "subway",
+    "name": "구로",
+    "station": "SES1701"
+  },
+  {
+    "type": "subway",
+    "name": "정발산",
+    "station": "SES1956"
+  },
+  {
+    "type": "subway",
+    "name": "계양",
+    "station": "SES3110"
+  },
+  {
+    "type": "subway",
+    "name": "군포",
+    "station": "SES1709"
+  },
+  {
+    "type": "subway",
+    "name": "금남4가",
+    "station": "KJS310300"
+  },
+  {
+    "type": "subway",
+    "name": "신도림",
+    "station": "SES1007"
+  },
+  {
+    "type": "subway",
+    "name": "중앙로",
+    "station": "DJS105"
+  },
+  {
+    "type": "subway",
+    "name": "남광주",
+    "station": "KJS310200"
+  },
+  {
+    "type": "subway",
+    "name": "수색",
+    "station": "SES1267"
+  },
+  {
+    "type": "subway",
+    "name": "송정",
+    "station": "SES2514"
+  },
+  {
+    "type": "subway",
+    "name": "풍산",
+    "station": "SES1274"
+  },
+  {
+    "type": "subway",
+    "name": "동대문운동장",
+    "station": "SES2537"
+  },
+  {
+    "type": "subway",
+    "name": "독립문",
+    "station": "SES0316"
+  },
+  {
+    "type": "subway",
+    "name": "오금",
+    "station": "SES0342"
+  },
+  {
+    "type": "subway",
+    "name": "군자",
+    "station": "SES2727"
+  },
+  {
+    "type": "subway",
+    "name": "남한산성입구",
+    "station": "SES2823"
+  },
+  {
+    "type": "subway",
+    "name": "주안",
+    "station": "SES1809"
+  },
+  {
+    "type": "subway",
+    "name": "월드컵경기장",
+    "station": "SES2620"
+  },
+  {
+    "type": "subway",
+    "name": "평동",
+    "station": "KJS350300"
+  },
+  {
+    "type": "subway",
+    "name": "동인천",
+    "station": "SES1811"
+  },
+  {
+    "type": "subway",
+    "name": "용두",
+    "station": "SES0250"
+  },
+  {
+    "type": "subway",
+    "name": "구암",
+    "station": "DJS117"
+  },
+  {
+    "type": "subway",
+    "name": "도산",
+    "station": "KJS350250"
+  },
+  {
+    "type": "subway",
+    "name": "버티고개",
+    "station": "SES2633"
+  },
+  {
+    "type": "subway",
+    "name": "천안",
+    "station": "SES1728"
+  },
+  {
+    "type": "subway",
+    "name": "센트럴파크",
+    "station": "SES3137"
+  },
+  {
+    "type": "subway",
+    "name": "대청",
+    "station": "SES0337"
+  },
+  {
+    "type": "subway",
+    "name": "단대오거리",
+    "station": "SES2824"
+  },
+  {
+    "type": "subway",
+    "name": "보산",
+    "station": "SES1914"
+  },
+  {
+    "type": "subway",
+    "name": "문산",
+    "station": "SES1284"
+  },
+  {
+    "type": "subway",
+    "name": "금천구청",
+    "station": "SES1703"
+  },
+  {
+    "type": "subway",
+    "name": "능곡",
+    "station": "SES1271"
+  },
+  {
+    "type": "subway",
+    "name": "중앙",
+    "station": "SES1756"
+  },
+  {
+    "type": "subway",
+    "name": "숭실대입구",
+    "station": "SES2740"
+  },
+  {
+    "type": "subway",
+    "name": "작전",
+    "station": "SES3116"
+  },
+  {
+    "type": "subway",
+    "name": "까치산",
+    "station": "SES2519"
+  },
+  {
+    "type": "subway",
+    "name": "정왕",
+    "station": "SES1761"
+  },
+  {
+    "type": "subway",
+    "name": "회기",
+    "station": "SES101C"
+  },
+  {
+    "type": "subway",
+    "name": "고속터미널",
+    "station": "SES2736"
+  },
+  {
+    "type": "subway",
+    "name": "지제",
+    "station": "SES1723"
+  },
+  {
+    "type": "subway",
+    "name": "노원",
+    "station": "SES2715"
+  },
+  {
+    "type": "subway",
+    "name": "미아삼거리",
+    "station": "SES0416"
+  },
+  {
+    "type": "subway",
+    "name": "진위",
+    "station": "SES1720"
+  },
+  {
+    "type": "subway",
+    "name": "중계",
+    "station": "SES2716"
+  },
+  {
+    "type": "subway",
+    "name": "미아",
+    "station": "SES0415"
+  },
+  {
+    "type": "subway",
+    "name": "온양온천",
+    "station": "SES1407"
+  },
+  {
+    "type": "subway",
+    "name": "운서",
+    "station": "SESA080"
+  },
+  {
+    "type": "subway",
+    "name": "반석역",
+    "station": "DJS122"
+  },
+  {
+    "type": "subway",
+    "name": "여의나루",
+    "station": "SES2528"
+  },
+  {
+    "type": "subway",
+    "name": "종합운동장",
+    "station": "SES0218"
+  },
+  {
+    "type": "subway",
+    "name": "녹양",
+    "station": "SES1908"
+  },
+  {
+    "type": "subway",
+    "name": "중구청",
+    "station": "DJS106"
+  },
+  {
+    "type": "subway",
+    "name": "이태원",
+    "station": "SES2631"
+  },
+  {
+    "type": "subway",
+    "name": "복정",
+    "station": "SES2821"
+  },
+  {
+    "type": "subway",
+    "name": "불광",
+    "station": "SES0312"
+  },
+  {
+    "type": "subway",
+    "name": "옥수",
+    "station": "SES0325"
+  },
+  {
+    "type": "subway",
+    "name": "도봉산",
+    "station": "SES1903"
+  },
+  {
+    "type": "subway",
+    "name": "금촌",
+    "station": "SES1280"
+  },
+  {
+    "type": "subway",
+    "name": "무악재",
+    "station": "SES0315"
+  },
+  {
+    "type": "subway",
+    "name": "월드컵경기장역",
+    "station": "DJS119"
+  },
+  {
+    "type": "subway",
+    "name": "박촌",
+    "station": "SES3112"
+  },
+  {
+    "type": "subway",
+    "name": "동묘앞",
+    "station": "SES0159"
+  },
+  {
+    "type": "subway",
+    "name": "신당",
+    "station": "SES0206"
+  },
+  {
+    "type": "subway",
+    "name": "화곡",
+    "station": "SES2518"
+  },
+  {
+    "type": "subway",
+    "name": "청구",
+    "station": "SES2538"
+  },
+  {
+    "type": "subway",
+    "name": "영등포구청",
+    "station": "SES2524"
+  },
+  {
+    "type": "subway",
+    "name": "도곡",
+    "station": "SES0334"
+  },
+  {
+    "type": "subway",
+    "name": "신길",
+    "station": "SES2526"
+  },
+  {
+    "type": "subway",
+    "name": "당산",
+    "station": "SES0237"
+  },
+  {
+    "type": "subway",
+    "name": "가락시장",
+    "station": "SES0340"
+  },
+  {
+    "type": "subway",
+    "name": "동작",
+    "station": "SES0431"
+  },
+  {
+    "type": "subway",
+    "name": "선유도",
+    "station": "SES4112"
+  },
+  {
+    "type": "subway",
+    "name": "종로3가",
+    "station": "SES2535"
+  },
+  {
+    "type": "subway",
+    "name": "간석",
+    "station": "SES1816"
+  },
+  {
+    "type": "subway",
+    "name": "교대",
+    "station": "SES0223"
+  },
+  {
+    "type": "subway",
+    "name": "운길산",
+    "station": "SES1211"
+  },
+  {
+    "type": "subway",
+    "name": "송정리",
+    "station": "KJS350200"
+  },
+  {
+    "type": "subway",
+    "name": "회룡",
+    "station": "SES1905"
+  },
+  {
+    "type": "subway",
+    "name": "온수",
+    "station": "SES2752"
+  },
+  {
+    "type": "subway",
+    "name": "혜화",
+    "station": "SES0420"
+  },
+  {
+    "type": "subway",
+    "name": "건대입구",
+    "station": "SES0212"
+  },
+  {
+    "type": "subway",
+    "name": "백운",
+    "station": "SES1807"
+  },
+  {
+    "type": "subway",
+    "name": "김포공항",
+    "station": "SES4102"
+  },
+  {
+    "type": "subway",
+    "name": "을지로입구",
+    "station": "SES0202"
+  },
+  {
+    "type": "subway",
+    "name": "고려대",
+    "station": "SES2641"
+  },
+  {
+    "type": "subway",
+    "name": "염창",
+    "station": "SES4110"
+  },
+  {
+    "type": "subway",
+    "name": "개화",
+    "station": "SES4101"
+  },
+  {
+    "type": "subway",
+    "name": "먹골",
+    "station": "SES2720"
+  },
+  {
+    "type": "subway",
+    "name": "금호",
+    "station": "SES0324"
+  },
+  {
+    "type": "subway",
+    "name": "거여",
+    "station": "SES2560"
+  },
+  {
+    "type": "subway",
+    "name": "청구",
+    "station": "SES2635"
+  },
+  {
+    "type": "subway",
+    "name": "선바위",
+    "station": "SES1450"
+  },
+  {
+    "type": "subway",
+    "name": "행당",
+    "station": "SES2540"
+  },
+  {
+    "type": "subway",
+    "name": "대곡",
+    "station": "SESZ001"
+  },
+  {
+    "type": "subway",
+    "name": "돌고개",
+    "station": "KJS330100"
+  },
+  {
+    "type": "subway",
+    "name": "역곡",
+    "station": "SES1803"
+  },
+  {
+    "type": "subway",
+    "name": "성균관대",
+    "station": "SES1711"
+  },
+  {
+    "type": "subway",
+    "name": "우장산",
+    "station": "SES2517"
+  },
+  {
+    "type": "subway",
+    "name": "남부터미널",
+    "station": "SES0331"
+  },
+  {
+    "type": "subway",
+    "name": "동두천중앙",
+    "station": "SES1913"
+  },
+  {
+    "type": "subway",
+    "name": "태평",
+    "station": "SES1852"
+  },
+  {
+    "type": "subway",
+    "name": "양동",
+    "station": "KJS330050"
+  },
+  {
+    "type": "subway",
+    "name": "응암",
+    "station": "SES2611"
+  },
+  {
+    "type": "subway",
+    "name": "화서",
+    "station": "SES1712"
+  },
+  {
+    "type": "subway",
+    "name": "샛강",
+    "station": "SES4116"
+  },
+  {
+    "type": "subway",
+    "name": "화정",
+    "station": "KJS330200"
+  },
+  {
+    "type": "subway",
+    "name": "산본",
+    "station": "SES1751"
+  },
+  {
+    "type": "subway",
+    "name": "남구로",
+    "station": "SES2747"
+  },
+  {
+    "type": "subway",
+    "name": "수유",
+    "station": "SES0414"
+  },
+  {
+    "type": "subway",
+    "name": "명학",
+    "station": "SES1707"
+  },
+  {
+    "type": "subway",
+    "name": "경인교대입구",
+    "station": "SES3115"
+  },
+  {
+    "type": "subway",
+    "name": "금정",
+    "station": "SES1708"
+  },
+  {
+    "type": "subway",
+    "name": "보문",
+    "station": "SES2639"
+  },
+  {
+    "type": "subway",
+    "name": "장한평",
+    "station": "SES2544"
+  },
+  {
+    "type": "subway",
+    "name": "대화",
+    "station": "SES1958"
+  },
+  {
+    "type": "subway",
+    "name": "공덕",
+    "station": "SES2530"
+  },
+  {
+    "type": "subway",
+    "name": "성신여대입구",
+    "station": "SES0418"
+  },
+  {
+    "type": "subway",
+    "name": "신답",
+    "station": "SES0245"
+  },
+  {
+    "type": "subway",
+    "name": "옥동기지",
+    "station": "KJS360000"
+  },
+  {
+    "type": "subway",
+    "name": "역촌",
+    "station": "SES2612"
+  },
+  {
+    "type": "subway",
+    "name": "청량리(지상)",
+    "station": "SES1014"
+  },
+  {
+    "type": "subway",
+    "name": "야탑",
+    "station": "SES1854"
+  },
+  {
+    "type": "subway",
+    "name": "신목동",
+    "station": "SES4111"
+  },
+  {
+    "type": "subway",
+    "name": "수내",
+    "station": "SES1856"
+  },
+  {
+    "type": "subway",
+    "name": "오리",
+    "station": "SES1859"
+  },
+  {
+    "type": "subway",
+    "name": "영등포",
+    "station": "SES1006"
+  },
+  {
+    "type": "subway",
+    "name": "선학",
+    "station": "SES3128"
+  },
+  {
+    "type": "subway",
+    "name": "매봉",
+    "station": "SES0333"
+  },
+  {
+    "type": "subway",
+    "name": "청량리(지하)",
+    "station": "SES0158"
+  },
+  {
+    "type": "subway",
+    "name": "문화전당",
+    "station": "KJS310250"
+  },
+  {
+    "type": "subway",
+    "name": "제기동",
+    "station": "SES0157"
+  },
+  {
+    "type": "subway",
+    "name": "동수",
+    "station": "SES3121"
+  },
+  {
+    "type": "subway",
+    "name": "테크노파크",
+    "station": "SES3134"
+  },
+  {
+    "type": "subway",
+    "name": "검암",
+    "station": "SESA070"
+  },
+  {
+    "type": "subway",
+    "name": "신반포",
+    "station": "SES4122"
+  },
+  {
+    "type": "subway",
+    "name": "한대앞",
+    "station": "SES1755"
+  },
+  {
+    "type": "subway",
+    "name": "신대방삼거리",
+    "station": "SES2743"
+  },
+  {
+    "type": "subway",
+    "name": "한티",
+    "station": "SES1024"
+  },
+  {
+    "type": "subway",
+    "name": "합정",
+    "station": "SES2623"
+  },
+  {
+    "type": "subway",
+    "name": "가락시장",
+    "station": "SES2818"
+  },
+  {
+    "type": "subway",
+    "name": "문래",
+    "station": "SES0235"
+  },
+  {
+    "type": "subway",
+    "name": "오류동",
+    "station": "SES1802"
+  },
+  {
+    "type": "subway",
+    "name": "상록수",
+    "station": "SES1754"
+  },
+  {
+    "type": "subway",
+    "name": "장승배기",
+    "station": "SES2742"
+  },
+  {
+    "type": "subway",
+    "name": "안국",
+    "station": "SES0318"
+  },
+  {
+    "type": "subway",
+    "name": "정자",
+    "station": "SES1857"
+  }
+]
