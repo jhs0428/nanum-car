@@ -4,7 +4,7 @@ const _ = require('lodash')
 const request = require('request')
 
 exports.getBusRouteIds = () => {
-  fs.readFile('./allBusRouteId.xml', (err, data) => {
+  return fs.readFile('../data/allBusRouteId.xml', (err, data) => {
     if (err) throw err
     parseString(data, (err, result) => {
       if (err) throw err
@@ -12,9 +12,8 @@ exports.getBusRouteIds = () => {
         .map(x => x.busRouteId[0])
         .value()
       ret.sort()
-      // console.log(ret)
       console.log(ret.length)
-      fs.writeFileSync('./allBusRouteId.json', JSON.stringify(ret), (err) => {
+      fs.writeFileSync('../data/allBusRouteId.json', JSON.stringify(ret), (err) => {
         if (err) {
           console.log(err)
           throw err
@@ -25,16 +24,27 @@ exports.getBusRouteIds = () => {
   })
 }
 
-exports.getStationInfo = () => {
-  let url = 'http://ws.bus.go.kr/api/rest/busRouteInfo/getStaionByRoute'
+exports.getStationInfo = (busRouteId) => {
+  return new Promise((resolve, reject) => {
+    request(getUrl(busRouteId), (err, response, body) => {
+      if (err) {
+        console.log('error:', err) // Print the error if one occurred
+        console.log('statusCode:', response && response.statusCode) // Print the response status code if a response was received
+        return reject(err)
+      }
+      return resolve(body)
+    })
+  })
+}
+
+function getUrl (busRouteId) {
+  const url = 'http://ws.bus.go.kr/api/rest/busRouteInfo/getStaionByRoute'
   const params = {}
   params.serviceKey = 'UY8Sm890L4Vk%2B1QUqCk3cIK0jhPgtfqIwJXHWjtE80Btf7PhjMWR7gO4ZA5FVdO2cySyMlaZaqMlUB3uvOZiSA%3D%3D'
-  params.busRouteId = '100100001'
-  // const ret = []
-  // _.forEach(params, (value, key) => {
-  //   ret.push([value, key].join('='))
-  // })
-  // ret.join('&')
-  // url += '?' + ret
-  // return url
+  params.busRouteId = busRouteId
+  const paramArray = []
+  _.forEach(params, (value, key) => {
+    paramArray.push([key, value].join('='))
+  })
+  return [url, paramArray.join('&')].join('?')
 }

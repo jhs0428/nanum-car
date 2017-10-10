@@ -18,6 +18,7 @@ exports.helloWorld = functions.https.onRequest((request, response) => {
     case 'GET':
       readSomething()
       bus.getBusRouteIds()
+      bus.getStationInfo()
       break
     case 'POST':
       createSomething()
@@ -30,7 +31,6 @@ exports.helloWorld = functions.https.onRequest((request, response) => {
       break
     default:
       break
-
   }
   response.send('Hello from Firebase!')
 })
